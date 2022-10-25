@@ -1,2 +1,2 @@
 # golog
-golog
+Simple go logging library
